@@ -3,6 +3,7 @@
 }, 
 	"keywords": ["freecodecamp", "nodejs", "backend"],
 	"description": "A proyect that does something awesome",
+	"license": "GPL",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
