@@ -1,6 +1,7 @@
 {	"author": {
 	"name": "Ismael Lopez"
-},
+}, 
+	"keywords": ["freecodeCamp", "nodejs", "backend"],
 	"description": "A proyect that does something awesome",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
